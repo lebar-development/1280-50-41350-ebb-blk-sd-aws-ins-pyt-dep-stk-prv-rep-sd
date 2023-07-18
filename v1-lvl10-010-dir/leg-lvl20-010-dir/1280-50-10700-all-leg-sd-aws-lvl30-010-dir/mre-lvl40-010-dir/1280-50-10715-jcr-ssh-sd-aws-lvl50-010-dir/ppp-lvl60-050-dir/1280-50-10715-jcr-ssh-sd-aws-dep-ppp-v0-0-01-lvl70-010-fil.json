@@ -1,3 +1,9 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "program1NameKEY": "SSH",
+  "protocol1TypeKEY": "TCP",
+  "portRange1KEY": "22",
+  "program2NameKEY": "Putty",
+  "protocol2TypeKEY": "TCP",
+  "portRange2KEY": "22"
 }
